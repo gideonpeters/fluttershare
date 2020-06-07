@@ -1,1 +1,3 @@
-## FlutterShare
+# fluttershare
+
+Social media practice app
